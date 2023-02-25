@@ -15,24 +15,22 @@
             alt="Logo SpaceX"
           />
         </a>
-        |
-        <a href="./pag2.html">The Spaceships</a>
-        |
+        | <a href="./pag2.html">The Spaceships</a> |
         <a href="#">Hire Us</a>
       </nav>
     </header>
     <hr />
     <section>
-      <div>
+      <section>
         <h2>Hire Us Now</h2>
         <p>
           Leave a message to request one of our services and we will get back to
           you as soon as possible
         </p>
-      </div>
+      </section>
       <br />
-      <div>
-        <form action="">
+      <section>
+        <form>
           <div>
             <label for="name">Name:</label>
             <input type="text" autocomplete="name" id="name" required />
@@ -47,25 +45,25 @@
               <option value="0" disabled selected>
                 -- Select the spaceship
               </option>
-              <option value="1">Falcon 9</option>
-              <option value="2">Falcon heavy</option>
+              <option value="falcon_9">Falcon 9</option>
+              <option value="falcon_heavy">Falcon heavy</option>
             </select>
             |
-            <label for="typeService">Type of Service:</label>
-            <select name="typeService" id="typeService">
-              <option value="0" disabled selected>
-                -- Select the option of service
-              </option>
-              <option value="1">Lorem ipsum dolor sit amet.</option>
-              <option value="2">Consectetur adipisicing elit.</option>
-              <option value="3">Suscipit nostrum reiciendis.</option>
-              <option value="4">Nostrum, molestiae, Sunt.</option>
-            </select>
+            <label for="service">Type of Service:</label>
+            <input type="search" name="service" id="service" list="services" />
+            <datalist id="services">
+              <option value="Lorem ipsum dolor sit amet."></option>
+              <option value="Consectetur adipisicing elit."></option>
+              <option value="Suscipit nostrum reiciendis."></option>
+              <option value="Nostrum, molestiae, Sunt."></option>
+            </datalist>
           </div>
           <br />
-          <input type="submit" value="Send Message" />
+          <div>
+            <input type="submit" value="Send Message" />
+          </div>
         </form>
-      </div>
+      </section>
     </section>
   </body>
 </html>
