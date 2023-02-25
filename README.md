@@ -11,11 +11,9 @@ Cursos e projetos realizados na onebitcode
 <hr>
 <div align="center"><strong>BADGES</strong></div>
 <div align="center">
-<img scr="">
+<img align="center" alt="badge HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 <hr>
-
-
 
 <div align="center">
 <img src="./images/bg-obc.jpg" width="500px">
