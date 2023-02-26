@@ -2,9 +2,9 @@
 
 <br>
 
-<img scr="../images/calculadora-gorjetas.jpg">
+<img src="../images/calculadora-gorjetas.jpg" height="400">
 
 <br>
 
-> ![](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+> ![](../images/badges/html.svg)![](../images/badges/css.svg)![](../images/badges/javascript.svg)
 >> [clique aqui](https://aleretamero.github.io/onebitcode/start-na-programacao/) para acessar o a página do projeto.
