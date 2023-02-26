@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --branco: #ffffff;
+  --preto: #000000;
+  --bg-post: #fffafa;
+  --primary-color: #008080;
+  --title-font: "Montserrat", sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --secundary-fonty: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: var(--branco);
+  margin: 0;
+}
+
+.post-container {
+  background-color: var(--bg-post);
+  width: 70%;
+  height: 100%;
+  margin: auto;
+}
+
+.post {
+  padding: 20px 100px 30px 50px;
+}
+
+.date {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  color: var(--primary-color);
+}
+
+.post h1 {
+  font-family: var(--title-font);
+  font-weight: 600;
+}
+
+.post-content {
+  font-family: var(--secundary-fonty);
+}
