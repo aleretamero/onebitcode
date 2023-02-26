@@ -1,7 +1,7 @@
 # onebitcode
-Cursos e projetos realizados na onebitcode
+**Cursos e projetos realizados na onebitcode**
 
-<hr>
+
 
 <ul>
   <li>Start na programação >> <a href="./start-na-programacao">acesse aqui</a></li>
