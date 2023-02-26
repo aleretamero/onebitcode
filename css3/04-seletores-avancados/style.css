@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+  background-color: darkgrey;
+  background-image: url(https://image.winudf.com/v2/image/Y29tLk1hZ2ljQ3JlYXRpb25zLkp1cGl0ZXIxODRfc2NyZWVuc2hvdHNfM180YjNlY2EwOQ/screen-3.jpg?fakeurl=1&type=.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: purple;
+  background-color: lightgreen;
+  border-color: yellow;
+  border-width: 4px;
+  border-style: solid;
+}
+
+h4 {
+  color: white;
+}
+
+ul {
+  padding: 25px;
+  border: 2px dashed yellow;
+}
+
+li {
+  color: white;
+}
+
+.moon {
+  color: orange;
+  font-size: 20px;
+}
+
+#europa-text {
+  font-size: 0.8em;
+  color: blueviolet;
+}
