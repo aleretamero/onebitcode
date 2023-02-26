@@ -13,7 +13,8 @@
 <div align="center"><strong>BADGES</strong></div>
 <br>
 <div align="center">
-<img align="center" alt="badge HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="badge HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="badge CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 <br>
 
@@ -21,5 +22,5 @@
 <br>
 
 <div align="center">
-<img src="./images/bg-obc.jpg" width="500px">
+  <img src="./images/bg-obc.jpg" width="500px">
 </div>
