@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  text-decoration: line-through;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 3;
+  text-align: justify;
+}
