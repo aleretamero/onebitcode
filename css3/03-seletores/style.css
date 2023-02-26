@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* Seletor star aplica estilo a todos os elementos */
+* {
+  background-color: #ccc;
+}
+
+/* Seletor de descendência */
+li a {
+  color: yellow;
+}
+
+/* Seletor de pai para filho */
+ul > li {
+  color: darkgreen;
+}
+
+/* Seletor se aplica para todo h4 adjascente de um h1 nesse exemplo */
+h1 + h4 {
+  border: 4px dashed black;
+}
+
+/* Seletor por atributo */
+a[href="#"] {
+  background-color: red;
+}
+
+/* Seletor por filho */
+/* Pode ser add odd(para impar) ou even(impar)*/
+li:nth-of-type(2) {
+  color: beige;
+}
