@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Geostar', cursive;
+  text-decoration: line-through;
+  margin-top: 45px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  margin-left: 28px;
+  width: 50%;
+  border: 2px solid;
+  padding: 10px 20px 20px 10px ;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 3;
+  text-align: justify;
+}
