@@ -20,7 +20,6 @@ body {
 .post-container {
   background-color: var(--bg-post);
   width: 70%;
-  height: 100%;
   margin: auto;
 }
 
