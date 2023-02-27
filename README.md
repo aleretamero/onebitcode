@@ -5,9 +5,9 @@
 
 <ul>
   <li>Start na Programação >> <a href="./start-na-programacao">acesse aqui</a></li>
-  <li>HTML5 >> <a href="./html5">acesse aqui</a></li>
-  <li>CSS3 >> <a href="./css3">acesse aqui</a></li>
-  <li>CSS3 Moderno>> <a href="./css3-moderno">acesse aqui</a></li>
+  <li>HTML5 >> <a href="./html5/">acesse aqui</a></li>
+  <li>CSS3 >> <a href="./css3/">acesse aqui</a></li>
+  <li>CSS3 Moderno>> <a href="./css3-moderno/">acesse aqui</a></li>
 </ul>
 
 <hr>
