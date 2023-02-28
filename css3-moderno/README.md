@@ -12,4 +12,8 @@
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/09-layout-grid/">#09</a> - Layout Grid</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/10-manipular-grid-container/">#10</a> - Manipular Grid Container</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/11-exercicio-fixacao-grid/">#11</a> - Exercício de Fixação de Grid</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/12-manipular-grid-items/">#12</a> - Manipular Grid Items</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/13-exercicio-grid-fixacao-1/">#13</a> - Exercicio Grid Fixacao#1</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/14-exercicio-grid-fixacao-2/">#14</a> - Exercicio Grid Fixacao#2</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/15-exercicio-grid/">#15</a> - Exercício Grid</li>
 </ul>
