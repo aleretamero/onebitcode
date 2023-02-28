@@ -4,9 +4,12 @@
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/01-media-query/">#01</a> - Media Query</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/02-mobile-first/">#02</a> - Mobile First</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/03-flex-container/">#03</a> - Flex Container</li>
-  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/04-layout-exercicio/">#04</a> - Layout dos Exercícios</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/04-layout-flexbox/">#04</a> - Layout FlexBox</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/05-manipular-flex-container/">#05</a> - Manipular Flex Container</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/06-exercicio-fixacao-flexbox/">#06</a> - Exercício de Fixação de Flexbox</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/07-manipular-flex-items/">#07</a> - Manipular Flex Itens</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/08-exercicio-flexbox/">#08</a> - Exercício de Flexbox</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/09-layout-grid/">#09</a> - Layout Grid</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/10-manipular-grid-container/">#10</a> - Manipular Grid Container</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/11-exercicio-fixacao-grid/">#11</a> - Exercício de Fixação de Grid</li>
 </ul>
