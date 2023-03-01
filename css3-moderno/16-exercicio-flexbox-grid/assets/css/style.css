@@ -31,7 +31,7 @@ body {
 .container-header {
   display: flex;
   width: 100%;
-  max-width: 1800px;
+  max-width: 2500px;
   justify-content: space-between;
 }
 .nav ul {
@@ -55,7 +55,7 @@ body {
 /* main */
 .main {
   flex: 1 0 auto;
-  max-width: 1440px;
+  max-width: 1920px;
   align-self: center;
 }
 .main-header {
@@ -75,63 +75,126 @@ body {
   font-size: 1.2em;
   font-weight: 600;
 }
+
+/* main-main */
 .main-container {
   padding: 20px;
   display: flex;
+  align-items: stretch;
 }
-
-/* main-main */
 .main-main {
   flex-grow: 1;
   flex-basis: auto;
-  padding: 0px 30px;
+  padding: 0px 20px;
+  margin-bottom: 20px;
   display: grid;
   gap: 20px;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-auto-rows: minmax(250px, auto);
-  /* grid-template-areas: 
+  grid-auto-rows: minmax(150px, auto);
+  grid-template-areas: 
     "item1 item2 item3"
     "item4 item5 item6"
-    "item7 item8 item9"; */
+    "item7 item8 item9"; 
 }
 .main-main .container-photo {
-  /* max-width: 300px;
-  min-width: 250px; */
-  width: 300px;
+  min-width: 250px;
   height: 100%;
   border-radius: 15px;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
 .main-main .container-photo:hover {
   border: 2px solid var(--color-primary);
   cursor: pointer;
   transition: 0.2s;
 }
+#item1 {
+  grid-area: item1;
+}
+#item2 {
+  grid-area: item2;
+}
+#item3 {
+  grid-area: item3;
+}
+#item4 {
+  grid-area: item4;
+}
+#item5 {
+  grid-area: item5;
+}
+#item6 {
+  grid-area: item6;
+}
+#item7 {
+  grid-area: item7;
+}
+#item8 {
+  grid-area: item8;
+}
+#item9 {
+  grid-area: item9;
+}
 .main-photo {
   width: 100%;
-  height: 200px;
+  height: 250px;
   border-radius: 0px 0px 15px 15px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#photo1 {
+  background-image: url(../images/boxe.jpg);
+  background-position-x: 80%;
+}
+#photo2 {
+  background-image: url(../images/crossfit.jpg);
+  background-position-y: 0%;
+}
+#photo3 {
+  background-image: url(../images/natacao.jpg);
+}
+#photo4 {
+  background-image: url(../images/roupas.jpg);
+}
+#photo5 {
+  background-image: url(../images/basquete.jpg);
+  background-position-x: 90%;
+}
+#photo6 {
+  background-image: url(../images/corrida.jpg);
+  background-position-x: 10%;
+}
+#photo7 {
+  background-image: url(../images/surf.jpg);
+}
+#photo8 {
+  background-image: url(../images/trilha.jpg);
+}
+#photo9 {
+  background-image: url(../images/tenis.jpg);
+  background-position-x: 10%;
 }
 .container-photo h4 {
   font-family: "Times New Roman", Times, serif;
   text-transform: uppercase;
+  text-align: center;
   padding: 10px 5px;
 }
 .container-photo p {
   font-family: "Times New Roman", Times, serif;
-  text-align: justify;
+  text-align: center;
   padding: 10px 5px;
 }
 
 /* main-sidebar */
 .main-sidebar {
   min-width: 300px;
-  height: 100%;
   background-color: var(--color-primary);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   gap: 50px;
   padding: 20px 10px;
@@ -140,6 +203,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   color: var(--color-white);
   text-transform: uppercase;
+  font-size: 1.4em;
 }
 .main-sidebar .container-photo {
   width: 220px;
@@ -175,7 +239,7 @@ body {
 .container-footer {
   display: flex;
   width: 100%;
-  max-width: 1800px;
+  max-width: 2500px;
   justify-content: space-between;
 }
 .footer .back {
