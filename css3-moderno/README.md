@@ -16,4 +16,5 @@
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/13-exercicio-fixacao-grid-1/">#13</a> - Exercicio Grid Fixacao#1</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/14-exercicio-fixacao-grid-2/">#14</a> - Exercicio Grid Fixacao#2</li>
   <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/15-exercicio-grid/">#15</a> - Exercício Grid</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/css3-moderno/16-exercicio-flexbox-grid/">#16</a> - Exercício Flexbox Grid</li>
 </ul>
