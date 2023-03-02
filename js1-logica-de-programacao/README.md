@@ -1,4 +1,4 @@
-<h1>Curso HTML5</h1>
+<h1>Curso de JavaScript - Lógica de Programação</h1>
 
 <ul>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/01-javascript-no-html/">#01</a> - Javascript no HTML</li>
