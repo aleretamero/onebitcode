@@ -8,6 +8,7 @@
   <li>HTML5 >> <a href="./html5/">acesse aqui</a></li>
   <li>CSS3 >> <a href="./css3/">acesse aqui</a></li>
   <li>CSS3 Moderno>> <a href="./css3-moderno/">acesse aqui</a></li>
+  <li>JS I - Lógica de Programação >> <a href="./js1-logica-de-programacao/">acesse aqui</a></li>
 </ul>
 
 <hr>
