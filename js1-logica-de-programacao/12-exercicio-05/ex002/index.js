@@ -13,18 +13,22 @@ do {
   `);
 
   let valor;
-  if (opcao == 1 || opcao == 2) {
-    if (opcao == 1) {
+  switch (opcao) {
+    case "1":
       valor = Number(prompt("Qual valor a ser adicionado:"));
       quantidadeDinheiro += valor;
-    } else if (opcao == 2) {
+      break;
+    case "2":
       valor = Number(prompt("Qual valor a ser retirado:"));
       quantidadeDinheiro -= valor;
-    }
+      break;
+    case "3":
+      alert(
+        `Valor de dinheiro disponível: R$${quantidadeDinheiro}
+        \nEncerrando o programa...`
+      );
+      break;
+    default:
+      alert("Opção inválida.");
   }
-} while (opcao != 3);
-
-alert(
-  `Valor de dinheiro disponível: R$${quantidadeDinheiro}
-  \nEncerrando o programa...`
-);
+} while (opcao !== "3");
