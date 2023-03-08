@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="../images/calculadora-gorjetas.jpg" height="400">
+<img src="./images/calculadora-gorjetas.jpg" height="400">
 
 <br>
 
