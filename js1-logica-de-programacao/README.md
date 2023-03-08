@@ -20,8 +20,8 @@
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/14-exercicio-06/ex001/">#14</a> - Exercício#06.1</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/14-exercicio-06/ex002/">#14</a> - Exercício#06.2</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/15-array-01/">#15</a> - Array#01</li>
-  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/15-array-02/">#15</a> - Array#02</li>
-  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/16-exercicio-07/ex001/">#16</a> - Exercício#07.1</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/16-array-02/">#16</a> - Array#02</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/17-exercicio-07/ex001/">#17</a> - Exercício#07.1</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/17-exercicio-07/ex002/">#17</a> - Exercício#07.2</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/18-arrays-bidimensionais/">#18</a> - Arrays Bidimensionais</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/19-exercicio-08/">#19</a> - Exercício#08</li>
