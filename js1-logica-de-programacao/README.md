@@ -9,7 +9,7 @@
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/05-exercicio-02/ex001/">#05</a> - Exercício#02.1</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/05-exercicio-02/ex002/">#05</a> - Exercício#02.2</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/06-switch/">#06</a> - Switch</li>
-  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/03-exercicio/">#07</a> - Exercício#03</li>
+  <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/07-exercicio-03/">#07</a> - Exercício#03</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/08-while/">#08</a> - While</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/09-exercicio-04/">#09</a> - Exercício#04</li>
   <li><a href="https://aleretamero.github.io/onebitcode/js1-logica-de-programacao/10-resolucao-exercicio-04/">#10</a> - Resolução Exercício#04</li>
