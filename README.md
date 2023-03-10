@@ -10,6 +10,7 @@
   <li>CSS3 Moderno>> <a href="./css3-moderno/">acesse aqui</a></li>
   <li>JS I - Lógica de Programação >> <a href="./js1-logica-de-programacao/">acesse aqui</a></li>
   <li>JS II - DOM >> <a href="./js2-dom/">acesse aqui</a></li>
+  <li>JS III - JS Moderno >> <a href="./js2-moderno/">acesse aqui</a></li>
 </ul>
 
 <hr>
